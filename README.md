@@ -43,3 +43,15 @@ Understanding customer buying behavior
 Optimizing outlet strategies
 
 Making data-driven decisions for sales improvement
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20total%20sales%20by%20fat%20content.png)
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20total%20sales%20by%20item%20type.png)
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20fat%20content%20by%20outlet%20for%20total%20sales.png)
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20sales%20outelet%20estashblishment.png)
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20total%20sales%20by%20oulet.png)
+
+![Dashboard preview](https://github.com/Lokesh-kamte/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20total%20sales%20by%20outlet.png)
